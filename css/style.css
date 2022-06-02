@@ -1,0 +1,96 @@
+.navbar{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    margin-bottom: 40px;
+}
+
+#home, #product, #gallery, #blog{
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+#inventory{
+    margin-right: 110px;
+    color: black;
+    text-decoration: none;
+    word-spacing: 2px;
+}
+
+body{
+    background-color: aliceblue;
+    margin: 0;
+}
+
+.profile{
+    display: flex;
+    background-color: white;
+    padding: 24px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 100px;
+}
+
+.logo{
+    border-radius: 50%;
+    margin-right: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+.pribadi, .datadiri{
+    text-align: left;
+}
+
+.pribadi{
+    margin-right: 20px;
+}
+
+.pribadi h1{
+    margin-top: 0;
+}
+
+.tombol button{
+    border-radius: 3px;
+    border-width: 1px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.tombol-kontak{
+    color: white;
+    background-color: blue;
+    margin-right: 5px;
+}
+
+.tombol-resume{
+    color: green;
+    border-color: green;
+}
+
+.form{
+    margin-left: 30px;
+    text-align: left;
+}
+
+.form input{
+    padding-right: 1060px;
+    margin-bottom: 11px;
+}
+
+.submit{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 593px;
+    padding-right: 593px;
+    color: white;
+    background-color: green;
+    border-radius: 3px;
+    border: none;
+}
